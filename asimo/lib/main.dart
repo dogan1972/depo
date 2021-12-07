@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
               ),
               IconButton(onPressed: () {}, icon: Icon(Icons.apps))
             ],
-            title: Text("Kivroş Asimo's World"),
+            title: Text("Kivroş Asımın Dünyası"),
           ),
           body: AsimoTabControllers()),
     );
